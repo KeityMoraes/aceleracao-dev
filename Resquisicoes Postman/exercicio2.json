@@ -1,0 +1,4666 @@
+[
+    {
+        "id": 520005005,
+        "nome": "Abadia de Goiás",
+        "municipio": {
+            "id": 5200050,
+            "nome": "Abadia de Goiás",
+            "microrregiao": {
+                "id": 52010,
+                "nome": "Goiânia",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520001,
+                "nome": "Goiânia",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520015905,
+        "nome": "Adelândia",
+        "municipio": {
+            "id": 5200159,
+            "nome": "Adelândia",
+            "microrregiao": {
+                "id": 52009,
+                "nome": "Anicuns",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520003,
+                "nome": "Inhumas - Itaberaí - Anicuns",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520085205,
+        "nome": "Americano do Brasil",
+        "municipio": {
+            "id": 5200852,
+            "nome": "Americano do Brasil",
+            "microrregiao": {
+                "id": 52009,
+                "nome": "Anicuns",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520003,
+                "nome": "Inhumas - Itaberaí - Anicuns",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520090205,
+        "nome": "Amorinópolis",
+        "municipio": {
+            "id": 5200902,
+            "nome": "Amorinópolis",
+            "microrregiao": {
+                "id": 52008,
+                "nome": "Iporá",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520014,
+                "nome": "Iporá",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520110805,
+        "nome": "Anápolis",
+        "municipio": {
+            "id": 5201108,
+            "nome": "Anápolis",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520002,
+                "nome": "Anápolis",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520130605,
+        "nome": "Anicuns",
+        "municipio": {
+            "id": 5201306,
+            "nome": "Anicuns",
+            "microrregiao": {
+                "id": 52009,
+                "nome": "Anicuns",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520003,
+                "nome": "Inhumas - Itaberaí - Anicuns",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520140505,
+        "nome": "Aparecida de Goiânia",
+        "municipio": {
+            "id": 5201405,
+            "nome": "Aparecida de Goiânia",
+            "microrregiao": {
+                "id": 52010,
+                "nome": "Goiânia",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520001,
+                "nome": "Goiânia",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521090110,
+        "nome": "Aparecida de Goiás",
+        "municipio": {
+            "id": 5210901,
+            "nome": "Itapaci",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520160305,
+        "nome": "Araçu",
+        "municipio": {
+            "id": 5201603,
+            "nome": "Araçu",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520003,
+                "nome": "Inhumas - Itaberaí - Anicuns",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520180105,
+        "nome": "Aragoiânia",
+        "municipio": {
+            "id": 5201801,
+            "nome": "Aragoiânia",
+            "microrregiao": {
+                "id": 52010,
+                "nome": "Goiânia",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520001,
+                "nome": "Goiânia",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520260105,
+        "nome": "Aurilândia",
+        "municipio": {
+            "id": 5202601,
+            "nome": "Aurilândia",
+            "microrregiao": {
+                "id": 52009,
+                "nome": "Anicuns",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520013,
+                "nome": "São Luís de Montes Belos",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520280905,
+        "nome": "Avelinópolis",
+        "municipio": {
+            "id": 5202809,
+            "nome": "Avelinópolis",
+            "microrregiao": {
+                "id": 52009,
+                "nome": "Anicuns",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520003,
+                "nome": "Inhumas - Itaberaí - Anicuns",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520760010,
+        "nome": "Bacilândia",
+        "municipio": {
+            "id": 5207600,
+            "nome": "Fazenda Nova",
+            "microrregiao": {
+                "id": 52008,
+                "nome": "Iporá",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520013,
+                "nome": "São Luís de Montes Belos",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520320305,
+        "nome": "Barro Alto",
+        "municipio": {
+            "id": 5203203,
+            "nome": "Barro Alto",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520330205,
+        "nome": "Bela Vista de Goiás",
+        "municipio": {
+            "id": 5203302,
+            "nome": "Bela Vista de Goiás",
+            "microrregiao": {
+                "id": 52010,
+                "nome": "Goiânia",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520001,
+                "nome": "Goiânia",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520355905,
+        "nome": "Bonfinópolis",
+        "municipio": {
+            "id": 5203559,
+            "nome": "Bonfinópolis",
+            "microrregiao": {
+                "id": 52010,
+                "nome": "Goiânia",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520001,
+                "nome": "Goiânia",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520360905,
+        "nome": "Brazabrantes",
+        "municipio": {
+            "id": 5203609,
+            "nome": "Brazabrantes",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520001,
+                "nome": "Goiânia",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520393905,
+        "nome": "Buriti de Goiás",
+        "municipio": {
+            "id": 5203939,
+            "nome": "Buriti de Goiás",
+            "microrregiao": {
+                "id": 52009,
+                "nome": "Anicuns",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520013,
+                "nome": "São Luís de Montes Belos",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520420105,
+        "nome": "Cachoeira de Goiás",
+        "municipio": {
+            "id": 5204201,
+            "nome": "Cachoeira de Goiás",
+            "microrregiao": {
+                "id": 52008,
+                "nome": "Iporá",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520013,
+                "nome": "São Luís de Montes Belos",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520455705,
+        "nome": "Caldazinha",
+        "municipio": {
+            "id": 5204557,
+            "nome": "Caldazinha",
+            "microrregiao": {
+                "id": 52010,
+                "nome": "Goiânia",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520001,
+                "nome": "Goiânia",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520485405,
+        "nome": "Campo Limpo de Goiás",
+        "municipio": {
+            "id": 5204854,
+            "nome": "Campo Limpo de Goiás",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520002,
+                "nome": "Anápolis",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521160210,
+        "nome": "Campolândia",
+        "municipio": {
+            "id": 5211602,
+            "nome": "Ivolândia",
+            "microrregiao": {
+                "id": 52008,
+                "nome": "Iporá",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520013,
+                "nome": "São Luís de Montes Belos",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520130615,
+        "nome": "Capelinha",
+        "municipio": {
+            "id": 5201306,
+            "nome": "Anicuns",
+            "microrregiao": {
+                "id": 52009,
+                "nome": "Anicuns",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520003,
+                "nome": "Inhumas - Itaberaí - Anicuns",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520500005,
+        "nome": "Carmo do Rio Verde",
+        "municipio": {
+            "id": 5205000,
+            "nome": "Carmo do Rio Verde",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521860710,
+        "nome": "Castrinópolis",
+        "municipio": {
+            "id": 5218607,
+            "nome": "Rialma",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520520805,
+        "nome": "Caturaí",
+        "municipio": {
+            "id": 5205208,
+            "nome": "Caturaí",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520001,
+                "nome": "Goiânia",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520540605,
+        "nome": "Ceres",
+        "municipio": {
+            "id": 5205406,
+            "nome": "Ceres",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520130620,
+        "nome": "Choupana",
+        "municipio": {
+            "id": 5201306,
+            "nome": "Anicuns",
+            "microrregiao": {
+                "id": 52009,
+                "nome": "Anicuns",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520003,
+                "nome": "Inhumas - Itaberaí - Anicuns",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521120610,
+        "nome": "Cibele",
+        "municipio": {
+            "id": 5211206,
+            "nome": "Itapuranga",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520005,
+                "nome": "Goiás - Itapuranga",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521935712,
+        "nome": "Cirilândia",
+        "municipio": {
+            "id": 5219357,
+            "nome": "Santa Isabel",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520570305,
+        "nome": "Córrego do Ouro",
+        "municipio": {
+            "id": 5205703,
+            "nome": "Córrego do Ouro",
+            "microrregiao": {
+                "id": 52008,
+                "nome": "Iporá",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520013,
+                "nome": "São Luís de Montes Belos",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520680005,
+        "nome": "Damolândia",
+        "municipio": {
+            "id": 5206800,
+            "nome": "Damolândia",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520003,
+                "nome": "Inhumas - Itaberaí - Anicuns",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521120615,
+        "nome": "Diolândia",
+        "municipio": {
+            "id": 5211206,
+            "nome": "Itapuranga",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520005,
+                "nome": "Goiás - Itapuranga",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520760005,
+        "nome": "Fazenda Nova",
+        "municipio": {
+            "id": 5207600,
+            "nome": "Fazenda Nova",
+            "microrregiao": {
+                "id": 52008,
+                "nome": "Iporá",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520013,
+                "nome": "São Luís de Montes Belos",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520780805,
+        "nome": "Firminópolis",
+        "municipio": {
+            "id": 5207808,
+            "nome": "Firminópolis",
+            "microrregiao": {
+                "id": 52009,
+                "nome": "Anicuns",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520015,
+                "nome": "Palmeiras de Goiás",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520110810,
+        "nome": "Goialândia",
+        "municipio": {
+            "id": 5201108,
+            "nome": "Anápolis",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520002,
+                "nome": "Anápolis",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520840005,
+        "nome": "Goianápolis",
+        "municipio": {
+            "id": 5208400,
+            "nome": "Goianápolis",
+            "microrregiao": {
+                "id": 52010,
+                "nome": "Goiânia",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520002,
+                "nome": "Anápolis",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520860805,
+        "nome": "Goianésia",
+        "municipio": {
+            "id": 5208608,
+            "nome": "Goianésia",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520870705,
+        "nome": "Goiânia",
+        "municipio": {
+            "id": 5208707,
+            "nome": "Goiânia",
+            "microrregiao": {
+                "id": 52010,
+                "nome": "Goiânia",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520001,
+                "nome": "Goiânia",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520880605,
+        "nome": "Goianira",
+        "municipio": {
+            "id": 5208806,
+            "nome": "Goianira",
+            "microrregiao": {
+                "id": 52010,
+                "nome": "Goiânia",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520001,
+                "nome": "Goiânia",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520920005,
+        "nome": "Guapó",
+        "municipio": {
+            "id": 5209200,
+            "nome": "Guapó",
+            "microrregiao": {
+                "id": 52010,
+                "nome": "Goiânia",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520001,
+                "nome": "Goiânia",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520929105,
+        "nome": "Guaraíta",
+        "municipio": {
+            "id": 5209291,
+            "nome": "Guaraíta",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520005,
+                "nome": "Goiás - Itapuranga",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520945705,
+        "nome": "Guarinos",
+        "municipio": {
+            "id": 5209457,
+            "nome": "Guarinos",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520960605,
+        "nome": "Heitoraí",
+        "municipio": {
+            "id": 5209606,
+            "nome": "Heitoraí",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520003,
+                "nome": "Inhumas - Itaberaí - Anicuns",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520970505,
+        "nome": "Hidrolândia",
+        "municipio": {
+            "id": 5209705,
+            "nome": "Hidrolândia",
+            "microrregiao": {
+                "id": 52010,
+                "nome": "Goiânia",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520001,
+                "nome": "Goiânia",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520980405,
+        "nome": "Hidrolina",
+        "municipio": {
+            "id": 5209804,
+            "nome": "Hidrolina",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520017,
+                "nome": "Uruaçu - Niquelândia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521000005,
+        "nome": "Inhumas",
+        "municipio": {
+            "id": 5210000,
+            "nome": "Inhumas",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520003,
+                "nome": "Inhumas - Itaberaí - Anicuns",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520110815,
+        "nome": "Interlândia",
+        "municipio": {
+            "id": 5201108,
+            "nome": "Anápolis",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520002,
+                "nome": "Anápolis",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521015805,
+        "nome": "Ipiranga de Goiás",
+        "municipio": {
+            "id": 5210158,
+            "nome": "Ipiranga de Goiás",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521020805,
+        "nome": "Iporá",
+        "municipio": {
+            "id": 5210208,
+            "nome": "Iporá",
+            "microrregiao": {
+                "id": 52008,
+                "nome": "Iporá",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520014,
+                "nome": "Iporá",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521030705,
+        "nome": "Israelândia",
+        "municipio": {
+            "id": 5210307,
+            "nome": "Israelândia",
+            "microrregiao": {
+                "id": 52008,
+                "nome": "Iporá",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520014,
+                "nome": "Iporá",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521040605,
+        "nome": "Itaberaí",
+        "municipio": {
+            "id": 5210406,
+            "nome": "Itaberaí",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520003,
+                "nome": "Inhumas - Itaberaí - Anicuns",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521056205,
+        "nome": "Itaguari",
+        "municipio": {
+            "id": 5210562,
+            "nome": "Itaguari",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520003,
+                "nome": "Inhumas - Itaberaí - Anicuns",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521060405,
+        "nome": "Itaguaru",
+        "municipio": {
+            "id": 5210604,
+            "nome": "Itaguaru",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520003,
+                "nome": "Inhumas - Itaberaí - Anicuns",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521090105,
+        "nome": "Itapaci",
+        "municipio": {
+            "id": 5210901,
+            "nome": "Itapaci",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521120605,
+        "nome": "Itapuranga",
+        "municipio": {
+            "id": 5211206,
+            "nome": "Itapuranga",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520005,
+                "nome": "Goiás - Itapuranga",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521140405,
+        "nome": "Itauçu",
+        "municipio": {
+            "id": 5211404,
+            "nome": "Itauçu",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520003,
+                "nome": "Inhumas - Itaberaí - Anicuns",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521160205,
+        "nome": "Ivolândia",
+        "municipio": {
+            "id": 5211602,
+            "nome": "Ivolândia",
+            "microrregiao": {
+                "id": 52008,
+                "nome": "Iporá",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520013,
+                "nome": "São Luís de Montes Belos",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521180005,
+        "nome": "Jaraguá",
+        "municipio": {
+            "id": 5211800,
+            "nome": "Jaraguá",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520002,
+                "nome": "Anápolis",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521200605,
+        "nome": "Jaupaci",
+        "municipio": {
+            "id": 5212006,
+            "nome": "Jaupaci",
+            "microrregiao": {
+                "id": 52008,
+                "nome": "Iporá",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520014,
+                "nome": "Iporá",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521205505,
+        "nome": "Jesúpolis",
+        "municipio": {
+            "id": 5212055,
+            "nome": "Jesúpolis",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520002,
+                "nome": "Anápolis",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520110820,
+        "nome": "Joanápolis",
+        "municipio": {
+            "id": 5201108,
+            "nome": "Anápolis",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520002,
+                "nome": "Anápolis",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521230305,
+        "nome": "Leopoldo de Bulhões",
+        "municipio": {
+            "id": 5212303,
+            "nome": "Leopoldo de Bulhões",
+            "microrregiao": {
+                "id": 52010,
+                "nome": "Goiânia",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520002,
+                "nome": "Anápolis",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521340010,
+        "nome": "Messianópolis",
+        "municipio": {
+            "id": 5213400,
+            "nome": "Moiporá",
+            "microrregiao": {
+                "id": 52008,
+                "nome": "Iporá",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520013,
+                "nome": "São Luís de Montes Belos",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521340005,
+        "nome": "Moiporá",
+        "municipio": {
+            "id": 5213400,
+            "nome": "Moiporá",
+            "microrregiao": {
+                "id": 52008,
+                "nome": "Iporá",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520013,
+                "nome": "São Luís de Montes Belos",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521385505,
+        "nome": "Morro Agudo de Goiás",
+        "municipio": {
+            "id": 5213855,
+            "nome": "Morro Agudo de Goiás",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521390505,
+        "nome": "Mossâmedes",
+        "municipio": {
+            "id": 5213905,
+            "nome": "Mossâmedes",
+            "microrregiao": {
+                "id": 52009,
+                "nome": "Anicuns",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520005,
+                "nome": "Goiás - Itapuranga",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520860810,
+        "nome": "Natinópolis",
+        "municipio": {
+            "id": 5208608,
+            "nome": "Goianésia",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521440805,
+        "nome": "Nazário",
+        "municipio": {
+            "id": 5214408,
+            "nome": "Nazário",
+            "microrregiao": {
+                "id": 52009,
+                "nome": "Anicuns",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520015,
+                "nome": "Palmeiras de Goiás",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521450705,
+        "nome": "Nerópolis",
+        "municipio": {
+            "id": 5214507,
+            "nome": "Nerópolis",
+            "microrregiao": {
+                "id": 52010,
+                "nome": "Goiânia",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520001,
+                "nome": "Goiânia",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521470505,
+        "nome": "Nova América",
+        "municipio": {
+            "id": 5214705,
+            "nome": "Nova América",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520140510,
+        "nome": "Nova Brasília",
+        "municipio": {
+            "id": 5201405,
+            "nome": "Aparecida de Goiânia",
+            "microrregiao": {
+                "id": 52010,
+                "nome": "Goiânia",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520001,
+                "nome": "Goiânia",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521486105,
+        "nome": "Nova Glória",
+        "municipio": {
+            "id": 5214861,
+            "nome": "Nova Glória",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521500905,
+        "nome": "Nova Veneza",
+        "municipio": {
+            "id": 5215009,
+            "nome": "Nova Veneza",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520001,
+                "nome": "Goiânia",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521520705,
+        "nome": "Novo Brasil",
+        "municipio": {
+            "id": 5215207,
+            "nome": "Novo Brasil",
+            "microrregiao": {
+                "id": 52008,
+                "nome": "Iporá",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520005,
+                "nome": "Goiás - Itapuranga",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521540505,
+        "nome": "Ouro Verde de Goiás",
+        "municipio": {
+            "id": 5215405,
+            "nome": "Ouro Verde de Goiás",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520002,
+                "nome": "Anápolis",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521680905,
+        "nome": "Petrolina de Goiás",
+        "municipio": {
+            "id": 5216809,
+            "nome": "Petrolina de Goiás",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520002,
+                "nome": "Anápolis",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521690805,
+        "nome": "Pilar de Goiás",
+        "municipio": {
+            "id": 5216908,
+            "nome": "Pilar de Goiás",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521030715,
+        "nome": "Piloândia",
+        "municipio": {
+            "id": 5210307,
+            "nome": "Israelândia",
+            "microrregiao": {
+                "id": 52008,
+                "nome": "Iporá",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520014,
+                "nome": "Iporá",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521860705,
+        "nome": "Rialma",
+        "municipio": {
+            "id": 5218607,
+            "nome": "Rialma",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521870605,
+        "nome": "Rianápolis",
+        "municipio": {
+            "id": 5218706,
+            "nome": "Rianápolis",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 522010810,
+        "nome": "Rosalândia",
+        "municipio": {
+            "id": 5220108,
+            "nome": "São Luís de Montes Belos",
+            "microrregiao": {
+                "id": 52009,
+                "nome": "Anicuns",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520013,
+                "nome": "São Luís de Montes Belos",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520330215,
+        "nome": "Roselândia",
+        "municipio": {
+            "id": 5203302,
+            "nome": "Bela Vista de Goiás",
+            "microrregiao": {
+                "id": 52010,
+                "nome": "Goiânia",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520001,
+                "nome": "Goiânia",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521890405,
+        "nome": "Rubiataba",
+        "municipio": {
+            "id": 5218904,
+            "nome": "Rubiataba",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521900105,
+        "nome": "Sanclerlândia",
+        "municipio": {
+            "id": 5219001,
+            "nome": "Sanclerlândia",
+            "microrregiao": {
+                "id": 52009,
+                "nome": "Anicuns",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520013,
+                "nome": "São Luís de Montes Belos",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521910005,
+        "nome": "Santa Bárbara de Goiás",
+        "municipio": {
+            "id": 5219100,
+            "nome": "Santa Bárbara de Goiás",
+            "microrregiao": {
+                "id": 52009,
+                "nome": "Anicuns",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520015,
+                "nome": "Palmeiras de Goiás",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521935705,
+        "nome": "Santa Isabel",
+        "municipio": {
+            "id": 5219357,
+            "nome": "Santa Isabel",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521945605,
+        "nome": "Santa Rita do Novo Destino",
+        "municipio": {
+            "id": 5219456,
+            "nome": "Santa Rita do Novo Destino",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521950605,
+        "nome": "Santa Rosa de Goiás",
+        "municipio": {
+            "id": 5219506,
+            "nome": "Santa Rosa de Goiás",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520002,
+                "nome": "Anápolis",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521973805,
+        "nome": "Santo Antônio de Goiás",
+        "municipio": {
+            "id": 5219738,
+            "nome": "Santo Antônio de Goiás",
+            "microrregiao": {
+                "id": 52010,
+                "nome": "Goiânia",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520001,
+                "nome": "Goiânia",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521990205,
+        "nome": "São Francisco de Goiás",
+        "municipio": {
+            "id": 5219902,
+            "nome": "São Francisco de Goiás",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520002,
+                "nome": "Anápolis",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 522010805,
+        "nome": "São Luís de Montes Belos",
+        "municipio": {
+            "id": 5220108,
+            "nome": "São Luís de Montes Belos",
+            "microrregiao": {
+                "id": 52009,
+                "nome": "Anicuns",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520013,
+                "nome": "São Luís de Montes Belos",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 522015705,
+        "nome": "São Luíz do Norte",
+        "municipio": {
+            "id": 5220157,
+            "nome": "São Luiz do Norte",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520017,
+                "nome": "Uruaçu - Niquelândia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 522028005,
+        "nome": "São Patrício",
+        "municipio": {
+            "id": 5220280,
+            "nome": "São Patrício",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 522045405,
+        "nome": "Senador Canedo",
+        "municipio": {
+            "id": 5220454,
+            "nome": "Senador Canedo",
+            "microrregiao": {
+                "id": 52010,
+                "nome": "Goiânia",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520001,
+                "nome": "Goiânia",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520760015,
+        "nome": "Serra Dourada",
+        "municipio": {
+            "id": 5207600,
+            "nome": "Fazenda Nova",
+            "microrregiao": {
+                "id": 52008,
+                "nome": "Iporá",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520013,
+                "nome": "São Luís de Montes Belos",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520110830,
+        "nome": "Souzânia",
+        "municipio": {
+            "id": 5201108,
+            "nome": "Anápolis",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520002,
+                "nome": "Anápolis",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 522100705,
+        "nome": "Taquaral de Goiás",
+        "municipio": {
+            "id": 5221007,
+            "nome": "Taquaral de Goiás",
+            "microrregiao": {
+                "id": 52007,
+                "nome": "Anápolis",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520003,
+                "nome": "Inhumas - Itaberaí - Anicuns",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 522119705,
+        "nome": "Terezópolis de Goiás",
+        "municipio": {
+            "id": 5221197,
+            "nome": "Terezópolis de Goiás",
+            "microrregiao": {
+                "id": 52010,
+                "nome": "Goiânia",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520001,
+                "nome": "Goiânia",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 522140305,
+        "nome": "Trindade",
+        "municipio": {
+            "id": 5221403,
+            "nome": "Trindade",
+            "microrregiao": {
+                "id": 52010,
+                "nome": "Goiânia",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520001,
+                "nome": "Goiânia",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 522150205,
+        "nome": "Turvânia",
+        "municipio": {
+            "id": 5221502,
+            "nome": "Turvânia",
+            "microrregiao": {
+                "id": 52009,
+                "nome": "Anicuns",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520015,
+                "nome": "Palmeiras de Goiás",
+                "regiao-intermediaria": {
+                    "id": 5204,
+                    "nome": "São Luís de Montes Belos - Iporá",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 522170005,
+        "nome": "Uruana",
+        "municipio": {
+            "id": 5221700,
+            "nome": "Uruana",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 522170020,
+        "nome": "Uruceres",
+        "municipio": {
+            "id": 5221700,
+            "nome": "Uruana",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 522170010,
+        "nome": "Uruíta",
+        "municipio": {
+            "id": 5221700,
+            "nome": "Uruana",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 521890415,
+        "nome": "Valdelândia",
+        "municipio": {
+            "id": 5218904,
+            "nome": "Rubiataba",
+            "microrregiao": {
+                "id": 52006,
+                "nome": "Ceres",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520018,
+                "nome": "Ceres - Rialma - Goianésia",
+                "regiao-intermediaria": {
+                    "id": 5205,
+                    "nome": "Porangatu - Uruaçu",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 520870715,
+        "nome": "Vila Rica",
+        "municipio": {
+            "id": 5208707,
+            "nome": "Goiânia",
+            "microrregiao": {
+                "id": 52010,
+                "nome": "Goiânia",
+                "mesorregiao": {
+                    "id": 5203,
+                    "nome": "Centro Goiano",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            },
+            "regiao-imediata": {
+                "id": 520001,
+                "nome": "Goiânia",
+                "regiao-intermediaria": {
+                    "id": 5201,
+                    "nome": "Goiânia",
+                    "UF": {
+                        "id": 52,
+                        "sigla": "GO",
+                        "nome": "Goiás",
+                        "regiao": {
+                            "id": 5,
+                            "sigla": "CO",
+                            "nome": "Centro-Oeste"
+                        }
+                    }
+                }
+            }
+        }
+    }
+]
