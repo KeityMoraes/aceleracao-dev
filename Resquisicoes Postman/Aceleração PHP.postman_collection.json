@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "957eaa46-ab37-40b7-bb35-cb79cb9bde17",
 		"name": "Aceleração PHP",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
 		{
