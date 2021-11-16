@@ -1,0 +1,90 @@
+stdClass Object
+(
+    [id] => 7285
+    [uid] => c13ada03-17f8-4f5f-86e1-522ee819a215
+    [valid_card] => 6011111111111117
+    [token] => tok_jcb
+    [invalid_card] => 4000000000000119
+    [month] => 10
+    [year] => 2022
+    [ccv] => 309
+    [ccv_amex] => 8538
+)
+
+stdClass Object
+(
+    [id] => 3806
+    [uid] => 58da495d-e9bf-4ff7-b1ab-3222a4c50b1b
+    [valid_card] => 2223003122003222
+    [token] => tok_mastercard_prepaid
+    [invalid_card] => 4000000000000036
+    [month] => 10
+    [year] => 2025
+    [ccv] => 307
+    [ccv_amex] => 9466
+)
+
+stdClass Object
+(
+    [id] => 4918
+    [uid] => f5aa8e34-65b8-4676-b457-72539abf4457
+    [app_name] => Bamity
+    [app_version] => 0.6.3
+    [app_author] => Pres. Mckinley Lind
+    [app_semantic_version] => 4.9.7
+    [app_major_version] => 44.0.6
+    [app_minor_version] => 4.182.4
+    [app_patch_version] => 7.7.3
+)
+
+stdClass Object
+(
+    [id] => 7979
+    [uid] => 3bc706ff-01cc-43eb-82a5-784598b523b2
+    [brand] => Corona Extra
+    [name] => Bourbon County Stout
+    [style] => Stout
+    [hop] => Vanguard
+    [yeast] => 1214 - Belgian Abbey
+    [malts] => Caramel
+    [ibu] => 47 IBU
+    [alcohol] => 4.6%
+    [blg] => 16.5°Blg
+)
+
+stdClass Object
+(
+    [id] => 8361
+    [uid] => 984a8a1b-6756-4759-a9ca-bed2819843fd
+    [color] => brown
+    [department] => Health
+    [material] => Silk
+    [product_name] => Heavy Duty Iron Watch
+    [price] => 53.23
+    [price_string] => 8.98
+    [promo_code] => SweetPromotion353821
+)
+
+stdClass Object
+(
+    [id] => 3510
+    [uid] => d900ec73-5752-44aa-8cb6-f955017b4811
+    [build_number] => 483
+    [manufacturer] => Huawei
+    [model] => OnePlus 6T
+    [platform] => Android OS
+    [serial_number] => Kl2ZroV9a
+    [version] => 26
+)
+
+stdClass Object
+(
+    [id] => 5142
+    [uid] => fcb67917-7237-417a-8abd-00a1aac16495
+    [plan] => Standard
+    [status] => Blocked
+    [payment_method] => Paypal
+    [subscription_term] => Quinquennal
+    [payment_term] => Full subscription
+)
+
