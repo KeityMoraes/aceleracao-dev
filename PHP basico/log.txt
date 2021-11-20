@@ -1,0 +1,4 @@
+diretorio alunos contém arquivo linha: 19
+A pasta professores não contem arquivos linha: 17
+pastateste não é um diretorio linha: 23
+
