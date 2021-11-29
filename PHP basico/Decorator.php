@@ -1,27 +1,44 @@
 <?php
 
-abstract class Recheio{
-    protected $nome;
 
-    abstract function ValorRecheio();
+abstract class Pao{
+    public $recheio=array();
+
+    function contabilizaRecheio(PaesRecheio $recheio){
+       
+    }
+
+    function addRecheio(PaesRecheio $rechei){
+        $this->recheio[] = $rechei;
+    }
 
     function getNome(){
         return $this->nome;
     }
 
-}
-
-abstract class Pao{
-    public $recheio=array();
-
-    function contabilizaRecheio(Recheio $recheio){
-       
+    function GetvalorTotal(){
+        foreach($this->recheio as $r){
+            $this->valorPao += $r->ValorRecheio();
+        }
+        return $this->valorPao;
+        
     }
 
 
 }
 
-class Salame extends Recheio{
+abstract class PaesRecheio extends Pao{
+    protected $nome;
+
+    abstract function ValorRecheio();
+
+
+
+}
+
+
+
+class Salame extends PaesRecheio{
     private $valor = 2;
 
     public function __construct()
@@ -34,7 +51,7 @@ class Salame extends Recheio{
     }
 }
 
-class mussarela extends Recheio{
+class mussarela extends PaesRecheio{
     private $valor = 2.5;
 
     public function __construct()
@@ -47,7 +64,7 @@ class mussarela extends Recheio{
     }
 }
 
-class ovo extends Recheio{
+class ovo extends PaesRecheio{
 
 
     public function __construct()
@@ -60,7 +77,7 @@ class ovo extends Recheio{
     }
 }
 
-class Margarina extends Recheio{
+class Margarina extends PaesRecheio{
     private $valor = 0.5;
 
     public function __construct()
@@ -73,7 +90,7 @@ class Margarina extends Recheio{
     }
 }
 
-class Geleia extends Recheio{
+class Geleia extends PaesRecheio{
     private $valor = 1;
 
 
@@ -87,7 +104,7 @@ class Geleia extends Recheio{
     }
 }
 
-class PastaDeAmendoim extends Recheio{
+class PastaDeAmendoim extends PaesRecheio{
     private $valor = 1.20;
 
 
@@ -108,19 +125,6 @@ class PaoSal extends Pao{
     function __construct(){
     }
 
-    function addRecheio(Recheio $rechei){
-        $this->recheio[] = $rechei;
-    }
-
-
-    function GetvalorTotal(){
-        foreach($this->recheio as $r){
-            $this->valorPao += $r->ValorRecheio();
-        }
-        return $this->valorPao;
-        
-    }
-
 
 }
 
@@ -131,18 +135,7 @@ class PaoDoce extends Pao{
         
     }
 
-    function addRecheio(Recheio $rechei){
-        $this->recheio[] = $rechei;
-    }
-
-
-    function GetvalorTotal(){
-        foreach($this->recheio as $r){
-            $this->valorPao += $r->ValorRecheio();
-        }
-        return $this->valorPao;
         
-    }
 
 }
 
