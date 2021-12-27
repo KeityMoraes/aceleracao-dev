@@ -1,6 +1,13 @@
-@extends('/template')
-
-@section('content')
+<!doctype html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Crud com Laravel</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css">
+</head>
+<body>
     
     <h1 class="text-center">Crud</h1> <hr>
 
@@ -33,11 +40,11 @@
                     <td>{{$documento->assinatura_responsavel}}</td>
                     <td>{{$documento->quantidade_pagina}}</td>
                     <td>
-                    <a href="{{url('documentos/visualizar')}}">
+                    <a href="{{url("documentos/visualizar")}}">
                             <button class="btn btn-primary">Visualizar</button>
                         </a>                        
 
-                        <a href="">
+                        <a href="{{url("documentos/$documento->id/editar")}}">
                             <button class="btn btn-primary">Editar</button>
                         </a>
 
@@ -50,4 +57,5 @@
             </tbody>
         </table>
     </div>
-@endsection
+    </body>
+</html>

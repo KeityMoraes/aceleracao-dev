@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\document;
-use Illuminate\Http\Request;
+use App\Http\Requests\DocumentRequest;
 
 class DocumentController extends Controller
 {
@@ -23,7 +23,7 @@ class DocumentController extends Controller
     }
 
     public function visualizar(){
-        echo "ooookkkkkkk";
+        echo "Pendente....";
 
     }
 
@@ -32,13 +32,36 @@ class DocumentController extends Controller
         return view('create');
     }
 
-    public function store(Request $request){
-        $this->doc->create([
+    
+    public function store(DocumentRequest $request){
+        $cad = $this->doc->create([
             'titulo'=>$request->titulo,
             'tamanho_documento'=>$request->tamanho_documento,
             'numero_assinatura'=>$request->numero_assinatura,
             'assinatura_responsavel'=>$request->assinatura_responsavel,
             'quantidade_pagina' => $request->quantidade_pagina
         ]);
+        if ($cad){
+            redirect('documentos');
+        }
+    }
+
+
+    public function editar($id){
+
+        $documento = $this->doc->find($id);
+        return view('create',compact('documento'));
+
+    }
+
+    public function update(DocumentRequest $request, $id){
+        $cad = $this->doc->where(['id'=>$id])->update([
+            'titulo'=>$request->titulo,
+            'tamanho_documento'=>$request->tamanho_documento,
+            'numero_assinatura'=>$request->numero_assinatura,
+            'assinatura_responsavel'=>$request->assinatura_responsavel,
+            'quantidade_pagina' => $request->quantidade_pagina
+        ]);
+        return redirect('documentos');
     }
 }

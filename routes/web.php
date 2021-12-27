@@ -22,5 +22,10 @@ Route::get('/documentos', [DocumentController::class,'index']);
 
 Route::get('/documentos/visualizar', [DocumentController::class,'visualizar']);
 
-
 Route::get('/documentos/create', [DocumentController::class,'create']);
+
+Route::post('/documentoss', [DocumentController::class,'store']);
+
+Route::get('/documentos/{id}/editar', [DocumentController::class,'editar']);
+
+Route::put('/documentoss/{id}', [DocumentController::class,'update']);
