@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css">
 </head>
 <body>
+    @csrf
     
     <h1 class="text-center">Crud</h1> <hr>
 
@@ -40,7 +41,7 @@
                     <td>{{$documento->assinatura_responsavel}}</td>
                     <td>{{$documento->quantidade_pagina}}</td>
                     <td>
-                    <a href="{{url("documentos/visualizar")}}">
+                    <a href="{{url("documentos/visualizar/$documento->id")}}">
                             <button class="btn btn-primary">Visualizar</button>
                         </a>                        
 
@@ -48,7 +49,7 @@
                             <button class="btn btn-primary">Editar</button>
                         </a>
 
-                        <a href="">
+                        <a href="{{url("documentos/$documento->id")}}" class="js-del">
                             <button class="btn btn-danger">Deletar</button>
                         </a>
                     </td>
@@ -57,5 +58,6 @@
             </tbody>
         </table>
     </div>
+    <script src="{{url("js/javaScripet.js")}}"></script>
     </body>
 </html>

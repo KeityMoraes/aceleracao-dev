@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Crud com Laravel</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css">
+</head>
+<body>
+    @csrf
+    
+    <h1 class="text-center">Visualizar</h1> <hr>
+
+    <div class="col-8 m-auto">
+        Título: {{$documento->titulo}}<br>
+        Tamanho Documento: {{$documento->tamanho_documento}} MB<br>
+        N° Assinatura: {{$documento->numero_assinatura}}<br>
+        Assinatura responsavel: {{$documento->assinatura_responsavel}}<br>
+        Quantidade pagina: {{$documento->quantidade_pagina}}<br>
+    </div>
+    
+    
+    </body>
+</html>

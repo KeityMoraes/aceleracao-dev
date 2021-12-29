@@ -22,8 +22,9 @@ class DocumentController extends Controller
 
     }
 
-    public function visualizar(){
-        echo "Pendente....";
+    public function visualizar($id){
+        $documento =$this->doc->find($id);
+        return view('visualizar', compact('documento'));
 
     }
 
@@ -42,7 +43,7 @@ class DocumentController extends Controller
             'quantidade_pagina' => $request->quantidade_pagina
         ]);
         if ($cad){
-            redirect('documentos');
+            return redirect('documentos');
         }
     }
 
@@ -63,5 +64,11 @@ class DocumentController extends Controller
             'quantidade_pagina' => $request->quantidade_pagina
         ]);
         return redirect('documentos');
+    }
+
+
+    public function deletar($id){
+        $deletado = $this->doc->destroy($id);
+        return($deletado)?"sim":"nao";
     }
 }
