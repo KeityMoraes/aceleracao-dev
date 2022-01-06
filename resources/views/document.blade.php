@@ -57,6 +57,7 @@
             @endforeach
             </tbody>
         </table>
+        {{$doc->links("pagination::bootstrap-4")}}
     </div>
     <script src="{{url("js/javaScripet.js")}}"></script>
     </body>

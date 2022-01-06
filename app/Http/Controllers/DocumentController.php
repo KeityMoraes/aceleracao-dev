@@ -3,7 +3,10 @@
 namespace App\Http\Controllers;
 
 use App\Models\document;
+use App\Models\user;
 use App\Http\Requests\DocumentRequest;
+use Illuminate\http\Request;
+use Illuminate\Support\Facades\Auth;
 
 class DocumentController extends Controller
 {
@@ -17,7 +20,7 @@ class DocumentController extends Controller
     public function index(){
         
         
-        $doc = document::all();
+        $doc = document::paginate(5);
         return view('document', compact('doc'));
 
     }
@@ -70,5 +73,23 @@ class DocumentController extends Controller
     public function deletar($id){
         $deletado = $this->doc->destroy($id);
         return($deletado)?"sim":"nao";
+    }
+
+
+    public function auth(Request $request){
+
+        if(value($request->email) == '' || value($request->password) == ''){
+            $this->validate($request,
+            ['email'=>'required',
+            'password'=>'required'],
+            ['password.required' => "O campo senha é obrigatório"]);
+        }else{
+            if(Auth::attempt(['email'=>$request->email, 'password'=>$request->password])){
+                return $this->index(); //corrigir o attempt
+            }else{
+               return redirect()->back()->with('danger','Senha ou E-mail invalido');
+            }
+        }
+
     }
 }

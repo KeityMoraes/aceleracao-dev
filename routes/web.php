@@ -14,20 +14,28 @@ use App\Http\Controllers\DocumentController;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+Route::get('/login', function () {
+    return view('login');
+})->name('login');
+
+Route::post('/auth', [DocumentController::class,'auth'])->name('auth');
+
+Route::middleware(['Login'])->group(function(){
+
+    Route::get('/documentos', [DocumentController::class,'index']);
+
+    Route::get('/documentos/visualizar/{id}', [DocumentController::class,'visualizar']);
+
+    Route::get('/documentos/create', [DocumentController::class,'create']);
+
+    Route::post('/documentoss', [DocumentController::class,'store']);
+
+    Route::get('/documentos/{id}/editar', [DocumentController::class,'editar']);
+
+    Route::put('/documentoss/{id}', [DocumentController::class,'update']);
+
+    Route::delete('/documentos/{id}', [DocumentController::class,'deletar']);
+
 });
 
-Route::get('/documentos', [DocumentController::class,'index']);
 
-Route::get('/documentos/visualizar/{id}', [DocumentController::class,'visualizar']);
-
-Route::get('/documentos/create', [DocumentController::class,'create']);
-
-Route::post('/documentoss', [DocumentController::class,'store']);
-
-Route::get('/documentos/{id}/editar', [DocumentController::class,'editar']);
-
-Route::put('/documentoss/{id}', [DocumentController::class,'update']);
-
-Route::delete('/documentos/{id}', [DocumentController::class,'deletar']);
