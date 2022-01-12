@@ -46,6 +46,21 @@ class DocumentController extends Controller
         }
     }
 
+    public function update(DocumentRequest $request, $id){
+        $cad = $this->doc->where(['id'=>$id])->update([
+            'titulo'=>$request->titulo,
+            'tamanho_documento'=>$request->tamanho_documento,
+            'numero_assinatura'=>$request->numero_assinatura,
+            'assinatura_responsavel'=>$request->assinatura_responsavel,
+            'quantidade_pagina' => $request->quantidade_pagina
+        ]);
 
+        return response()->json($cad);
+    }
+
+    public function deletar($id){
+        $deletado = $this->doc->destroy($id);
+        return response()->json(['msg' => 'Documento deletado']);
+    }
     
 }

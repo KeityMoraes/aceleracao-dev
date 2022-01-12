@@ -20,7 +20,7 @@ Route::get('/login', function () {
 
 Route::post('/auth', [DocumentController::class,'auth'])->name('auth');
 
-Route::middleware(['Login'])->group(function(){
+//Route::middleware(['auth.basic'])->group(function(){
 
     Route::get('/documentos', [DocumentController::class,'index']);
 
@@ -36,6 +36,6 @@ Route::middleware(['Login'])->group(function(){
 
     Route::delete('/documentos/{id}', [DocumentController::class,'deletar']);
 
-});
+//});
 
 

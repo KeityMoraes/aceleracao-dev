@@ -3,7 +3,7 @@
 use Illuminate\Http\Request;
 use Illuminate\http\Response;
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\Api\{DocumentController};
+use App\Http\Controllers\Api\{DocumentController,LoginApiController};
 
 /*
 |--------------------------------------------------------------------------
@@ -25,7 +25,14 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 //    return \App\Models\document::paginate(100);
 //});
 
+Route::post('/login', [LoginApiController::class, 'login']);
 
-Route::get('/documentos/all', [DocumentController::class, 'index']);
-Route::get('/documentos/{id}', [DocumentController::class, 'visualizar']);
-Route::post('/documentos', [DocumentController::class, 'store']);
+
+Route::group(["middleware" => "jwt.auth"],function(){
+    Route::get('/documentos/all', [DocumentController::class, 'index']);
+    Route::get('/documentos/{id}', [DocumentController::class, 'visualizar']);
+    Route::post('/documentos/novo', [DocumentController::class, 'store']);
+    Route::put('/documentos/{id}', [DocumentController::class, 'update']);
+    Route::delete('/documentos/{id}', [DocumentController::class, 'deletar']);
+
+});
