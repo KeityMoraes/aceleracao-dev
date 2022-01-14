@@ -35,4 +35,7 @@ Route::group(["middleware" => "jwt.auth"],function(){
     Route::put('/documentos/{id}', [DocumentController::class, 'update']);
     Route::delete('/documentos/{id}', [DocumentController::class, 'deletar']);
 
+    route::get('/documentos/logout', [LoginApiController::class, 'logout']);
+    route::get('/documentos/newToken', [LoginApiController::class, 'newToken']);
+
 });
