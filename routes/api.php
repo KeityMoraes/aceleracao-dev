@@ -1,9 +1,12 @@
 <?php
 
+use App\Http\Controllers\InvoiceController;
 use Illuminate\Http\Request;
 use Illuminate\http\Response;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Api\{DocumentController,LoginApiController};
+use App\Http\Controllers\Api\AssinaturaController;
+use App\Models\Assinatura;
 
 /*
 |--------------------------------------------------------------------------
@@ -38,4 +41,10 @@ Route::group(["middleware" => "jwt.auth"],function(){
     route::get('/documentos/logout', [LoginApiController::class, 'logout']);
     route::get('/documentos/newToken', [LoginApiController::class, 'newToken']);
 
+    Route::get('/assinatura/all',[AssinaturaController::class, 'index']);
+
 });
+
+
+//Route::get('/assinatura/all',[AssinaturaController::class, 'index']);
+//Route::get('/assinatura/all', 'App\Http\Controllers\Api\AssinaturaController@index');
